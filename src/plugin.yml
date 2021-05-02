@@ -1,0 +1,10 @@
+name: ZERO
+main: dev.elodlas.customs.ZeroAbsolute
+version: 2.0
+description: Plugin of Custom Things
+authors: [ Elodlas ]
+commands:
+  customapples:
+    aliases: [zeroapples]
+  custompotions:
+    aliases: [zeropots]

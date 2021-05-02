@@ -1,0 +1,99 @@
+
+#########################
+#                       #
+#     Custom Gapples    #
+#                       #
+#########################
+
+ABSORPTION:
+  enabled: false
+  time: 15
+  power: 1
+BLINDNESS:
+  enabled: false
+  time: 15
+  power: 1
+CONFUSION:
+  enabled: false
+  time: 15
+  power: 1
+DAMAGE_RESISTANCE:
+  enabled: false
+  time: 15
+  power: 1
+FAST_DIGGING:
+  enabled: false
+  time: 15
+  power: 1
+FIRE_RESISTANCE:
+  enabled: false
+  time: 15
+  power: 1
+HARM:
+  enabled: false
+  time: 15
+  power: 1
+HEAL:
+  enabled: false
+  time: 15
+  power: 1
+HEALTH_BOOST:
+  enabled: false
+  time: 15
+  power: 1
+HUNGER:
+  enabled: false
+  time: 15
+  power: 1
+INCREASE_DAMAGE:
+  enabled: false
+  time: 15
+  power: 1
+INVISIBILITY:
+  enabled: false
+  time: 15
+  power: 1
+JUMP:
+  enabled: false
+  time: 15
+  power: 1
+NIGHT_VISION:
+  enabled: false
+  time: 15
+  power: 1
+POISON:
+  enabled: false
+  time: 15
+  power: 1
+REGENERATION:
+  enabled: false
+  time: 15
+  power: 1
+SATURATION:
+  enabled: false
+  time: 15
+  power: 1
+SLOW:
+  enabled: false
+  time: 15
+  power: 1
+SLOW_DIGGING:
+  enabled: false
+  time: 15
+  power: 1
+SPEED:
+  enabled: false
+  time: 15
+  power: 1
+WATER_BREATHING:
+  enabled: false
+  time: 15
+  power: 1
+WEAKNESS:
+  enabled: false
+  time: 15
+  power: 1
+WITHER:
+  enabled: false
+  time: 15
+  power: 1
